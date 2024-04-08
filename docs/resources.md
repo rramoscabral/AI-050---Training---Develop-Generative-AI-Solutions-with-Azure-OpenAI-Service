@@ -57,7 +57,6 @@ No content.
 
 ## Ebooks
 
-
 <!-- 
 | Title | Author    | Launch date   | URL   |
 | ---   | ---       | ---           | ---   | 
@@ -73,7 +72,11 @@ No content.
 
 | Newsletter | Description | 
 | --- | --- | 
+
+| [Azure OpenAI Service](https://azure.microsoft.com/en-us/blog/product/azure-openai-service/) | Azure products blog post filtered by Azure OpenAI Service. |
+| [Microsoft .NET Blog OpenAI](https://devblogs.microsoft.com/dotnet/tag/openai/) | .NET blog post filtered by OpenAI tag. |
 | [Microsoft Developer Blogs](https://devblogs.microsoft.com/) | Get the latest information, insights, announcements, and news from Microsoft. |
+
 
 <br/>
 
