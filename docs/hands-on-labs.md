@@ -24,10 +24,6 @@ has_children: false
 
 ## Official course hands-on Labs
 
-<br/>
-
-Oficial AI-050 Hands-on Labs
-
 * ***AI-050*** official course lab instructions is available [**here**](https://microsoftlearning.github.io/mslearn-openai/). 
 * You can download the latest instructions and complete solution [**here**](https://github.com/MicrosoftLearning/mslearn-openai/)
 
@@ -37,17 +33,14 @@ Oficial AI-050 Hands-on Labs
 > NOTE: To complete the interactive labs in this course, learners need an **Azure subscription** that has been **approved for access to Azure OpenAI Service**. The approval process 
 can take **several days**.
 
-<br/>
-
-[**Back to top**](#top) | [**Back to main**](README.md)
-
-<br/>
 
 
+<!-- <br/> -->
 
 <!-- ### Software List for Hands-on Labs -- >
 
 <!-- softwarelist -->
+
 <!-- Required software to run the course and workshop hands-on labs available [**here**](./Lab-Setup.md) -->
 
 
@@ -59,6 +52,4 @@ can take **several days**.
 * [Azure OpenAI in a day workshop](https://github.com/microsoft/azure-openai-in-a-day-workshop)
 
 
-<br/>
-
-> ***Note:*** The following workshops were not written/designed by me. Workshops are maintained by Microsoft, which reserves the right to remove or archive it in read-only mode on GitHub without notice.
+> ***Note:*** This workshops were not written/designed by me. Workshops are maintained by Microsoft, which reserves the right to remove or archive it in read-only mode on GitHub without notice.

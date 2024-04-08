@@ -25,11 +25,13 @@ has_children: false
 
 Microsoft Applied Skills is a new verifiable credential that validates that you have the targeted skills needed to implement critical projects aligned to business goals and objectives. **Applied Skills credentials are not replacing Certifications.**
 
+<br/>
 
 ## How to earn your Microsoft Applied Skills credentials
 
 Earn your credential by passing an online, interactive, lab-based assessment that takes you through a series of scenario-based tasks in products like Microsoft Azure or Microsoft Power Platform. The lab assessment is available directly from Microsoft Learn.
 
+<br/>
 
 ## Lab assessment 
 
@@ -37,6 +39,7 @@ Earn your credential by passing an online, interactive, lab-based assessment tha
 | --- | --- | 
 | [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | emonstrate your ability to develop generative AI solutions with Azure OpenAI Service. |
 
+<br/>
 
 ## Frequently asked questions
 

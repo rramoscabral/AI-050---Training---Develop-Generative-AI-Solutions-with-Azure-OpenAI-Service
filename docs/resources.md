@@ -27,9 +27,10 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 > Note: All links have been tested. If a link does not work, the author has stopped providing the information.
 
+<br/>
+
 ## Interactive Guides
 
-<br/>
 
 <!-- 
 | Topic | Guide |

@@ -37,6 +37,7 @@ can take **several days**.
 | Intermediate | Azure         |  AI Engineer Data Scientist  | English   | 1 days |
 
 
+<br/>
 
 ## Official course outline
 
@@ -48,6 +49,7 @@ The March 2024 Course outline [here](./course_outline_202403.md)
 
 <!-- Learning and Training Guide for <course> [here](link) -->
 
+<br/>
 
 ## Microsoft Credentials
 

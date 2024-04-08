@@ -113,7 +113,6 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-
 ## Microsoft Exam Polices and FAQ
 
 [Exam policies and FAQs (Recomended and Updated)](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
