@@ -31,9 +31,16 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 <br/>
 
+<!-- 
 | Topic | Guide |
 | :---: | ---   | 
 | - - - | - - - |
+
+--> 
+
+No content.
+
+
 
 <br/>
 
@@ -49,9 +56,14 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 ## Ebooks
 
+
+<!-- 
 | Title | Author    | Launch date   | URL   |
 | ---   | ---       | ---           | ---   | 
 | - - - | - - -     | - - -         | - - - |
+-->
+
+No content.
 
 <br/>
 
