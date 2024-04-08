@@ -38,15 +38,21 @@ can take **several days**.
 
 
 
+## Official course outline
+
 <!-- Official course outline -->
 
 The March 2024 Course outline [here](./course_outline_202403.md)
 
 <!-- The exam skills measured is available [here](link) -->
 
-<!-- Learning and Training Guide for <ourse> [here](link) -->
+<!-- Learning and Training Guide for <course> [here](link) -->
+
+
+## Microsoft Credentials
 
 The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoster).
 
+You can browse Microsoft certifications [here](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification).
 
 

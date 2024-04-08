@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-# Training for Microsoft Official Course (MOC) AI-050: https://ai-050.rramoscabral.com/
+# Training for Microsoft Official Course (MOC) AI-050: Develop Generative AI Solutions with Azure OpenAI Service
 
 Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AI-050: Develop Generative AI Solutions with Azure OpenAI Service.
 
@@ -16,6 +16,7 @@ The course *AI-050: Develop Generative AI Solutions with Azure OpenAI Service* i
 <br/>
 
 **Learning objectives**
+
 After completing this course, students will be able to Implement generative AI solutions.
 
 <br/>

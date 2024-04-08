@@ -9,6 +9,7 @@ The course *AI-050: Develop Generative AI Solutions with Azure OpenAI Service* i
 <br/>
 
 **Learning objectives**
+
 After completing this course, students will be able to Implement generative AI solutions.
 
 <br/>
