@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-nav_order: 6
+nav_order: 7
 has_children: false
 ---
 
@@ -31,9 +31,9 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 <br/>
 
-| Topic | Guide  |
-| :---: | --- | 
-
+| Topic | Guide |
+| :---: | ---   | 
+| - - - | - - - |
 
 <br/>
 
@@ -49,9 +49,9 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 ## Ebooks
 
-| Title | Author    | Launch date   | URL |
-| ---   | ---       | ---           | --- | 
-| -     | -         | -             | -   |
+| Title | Author    | Launch date   | URL   |
+| ---   | ---       | ---           | ---   | 
+| - - - | - - -     | - - -         | - - - |
 
 <br/>
 
