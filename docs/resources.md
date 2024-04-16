@@ -51,6 +51,7 @@ No content.
 | --- | --- | 
 | [Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/) | Oficial documentation about Azure OpenAI Service. |
 | [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference) | Details on the inference REST API endpoints for Azure OpenAI. |
+| [Azure OpenAI Service REST API Spec](https://github.com/Azure/azure-rest-api-specs/tree/main/specification/cognitiveservices/data-plane/AzureOpenAI/inference) | OpenAPI (f.k.a Swagger) Specification for Azure OpenAI Service. |
 | [OpenAI developer platform documentation](https://platform.openai.com/docs/introduction) | Oficial documentation about OpenAI for developers. |
 
 <br/>
