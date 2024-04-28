@@ -42,6 +42,7 @@ can take **several days**.
 | --- | --- | 
 | [Get started using GPT-35-Turbo and GPT-4 with Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart) |  Get started using Azure OpenAI for Azure OpenAI Studio, C#, GO,Java, Spring, JavaScript, Python, PowerShell and REST | 
 | [Quickstart: Generate images with Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart) | Generating images with Azure OpenAI. |
+| [Quickstart: Chat with Azure OpenAI models using your own data](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart) | You can use your own data with Azure OpenAI models. |
 
 
 <!-- <br/> -->

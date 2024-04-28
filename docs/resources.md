@@ -58,11 +58,15 @@ No content.
 
 ## Ebooks
 
-<!-- 
+
 | Title | Author    | Launch date   | URL   |
 | ---   | ---       | ---           | ---   | 
-| - - - | - - -     | - - -         | - - - |
--->
+| AI Innovators | Microsoft | - - -  | [Here](https://info.microsoft.com/CE-DIGTRNS-CNTNT-FY20-07Jul-10-AIInnovatorseBook-SRGCM1122_01Registration-ForminBody.html) |
+| Create new value for your business with AI | - - - | - - - | [Here](https://info.microsoft.com/ww-landing-ai-use-cases-for-business-leaders.html) | 
+| Ethics in AI: Three values for the financial services industry | - - - | - - - | [Here](https://info.microsoft.com/ww-landing-Ethics-in-AI-eBook.html) |
+| Explore use cases for driving innovation through analytics and AI | Microsoft | 2024-02-22 | [Here](https://clouddamcdnprodep.azureedge.net/gdc/gdcn1pwn7/original) |
+| How to Make AI Work for Your Business | - - - | - - - | [Here](https://info.microsoft.com/ww-landing-succeeding-with-ai-manning.html) |
+
 
 No content.
 
