@@ -22,7 +22,7 @@ has_children: false
 <br/>
 
 
-## Official course hands-on Labs
+## Official course Hands-on Labs
 
 * ***AI-050*** official course lab instructions is available [**here**](https://microsoftlearning.github.io/mslearn-openai/). 
 * You can download the latest instructions and complete solution [**here**](https://github.com/MicrosoftLearning/mslearn-openai/)
@@ -36,7 +36,7 @@ can take **several days**.
 
 <br/>
 
-## Microsoft documentation quickstart Hands-On Labs
+## Microsoft Quickstart Hands-On Labs
 
 | Quickstart | Description | 
 | --- | --- | 
