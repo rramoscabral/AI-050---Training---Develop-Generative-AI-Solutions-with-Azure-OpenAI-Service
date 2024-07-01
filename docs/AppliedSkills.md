@@ -37,7 +37,7 @@ Earn your credential by passing an online, interactive, lab-based assessment tha
 
 | Applied Skills  | Overview | 
 | --- | --- | 
-| [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | emonstrate your ability to develop generative AI solutions with Azure OpenAI Service. |
+| [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | Demonstrate your ability to develop generative AI solutions with Azure OpenAI Service. |
 
 <br/>
 
