@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exam certification
+title: Frequently Asked Questions (FAQ)
 nav_order: 8
 has_children: false
 ---
